@@ -1,5 +1,7 @@
 2.1 updated line from git_2
 2.2 updated line from git_2
+2.1 updated from git_1
+2.2 updated from git_1
 2.3 line
 2.4 line
 2.5 line

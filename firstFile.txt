@@ -1,7 +1,7 @@
 1 line modifing in step 7 
 2 line modifing in step 7
-3 line
-4 line
+3 line - changing the line from folder-2
+4 line - changing the line from folder-2
 5 line
 6 line
 7 line
